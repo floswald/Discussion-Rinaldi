@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "notes/notes.html#overview",
+    "href": "notes/notes.html#overview",
+    "title": "slides",
+    "section": "Overview",
+    "text": "Overview\n\nWhat is the impact of changes in local govt spending on the sorting behaviour in a city?\nUse a 2010 policy change to investigate this question.\nUse detailed data on prices, commuting, land rents etc to estimate key elasticities and parametrize a model a la Redding et al\nRun a counteractual that predicts changes in sorting-related outcomes."
+  },
+  {
+    "objectID": "notes/notes.html#literature-overview",
+    "href": "notes/notes.html#literature-overview",
+    "title": "slides",
+    "section": "Literature Overview",
+    "text": "Literature Overview\n\nNot doing justice to the vast literature on local public finance.\nthe premise “people care about local services like trash collection” needs to be supported much stronger. Reference to Zahra, Fahmi, and Satriatna (2018) is weak.\nShould have a close look at Bayer and Timmins (2005), Bayer and Timmins (2007), Bayer et al. (2016)\nit seems you take for granted that the spending effects are substantial, but this is far from clear."
+  },
+  {
+    "objectID": "notes/notes.html#local-authority-spending",
+    "href": "notes/notes.html#local-authority-spending",
+    "title": "slides",
+    "section": "Local Authority Spending",
+    "text": "Local Authority Spending\nInstitute for Government:\n\nLocal authorities in England deliver social care for children and adults, ‘neighbourhood services’ such as libraries and waste collection, and some aspects of transport, housing and education.\n\n\nSchooling is a major sorting driver. Who pays for that?\nSubstantial amount of funding comes via government grants.\nCouncil tax + business tax are not freely chosen.\nTalk to colleagues at LSE and IFS. David Phillips."
+  },
+  {
+    "objectID": "notes/notes.html#estimation-of-eta",
+    "href": "notes/notes.html#estimation-of-eta",
+    "title": "slides",
+    "section": "Estimation of \\(\\eta\\)",
+    "text": "Estimation of \\(\\eta\\)\n\nThe assumption is that there are no policy or historical differences that would lead houses on one side of the border to be more expensive because they are larger, newer, or more luxurious."
+  },
+  {
+    "objectID": "notes/notes.html#estimation-of-eta-1",
+    "href": "notes/notes.html#estimation-of-eta-1",
+    "title": "slides",
+    "section": "Estimation of \\(\\eta\\)",
+    "text": "Estimation of \\(\\eta\\)"
+  },
+  {
+    "objectID": "notes/notes.html#estimation-of-eta-borders",
+    "href": "notes/notes.html#estimation-of-eta-borders",
+    "title": "slides",
+    "section": "Estimation of \\(\\eta\\): Borders",
+    "text": "Estimation of \\(\\eta\\): Borders"
+  },
+  {
+    "objectID": "notes/notes.html#counterfactual---comments-1",
+    "href": "notes/notes.html#counterfactual---comments-1",
+    "title": "slides",
+    "section": "Counterfactual - Comments 1",
+    "text": "Counterfactual - Comments 1\n\nBaseline, all councils have the same spending level G = 1. So, all differences are in b_r. Then increase \\(G\\).\nDocument clearly how you computed the change in \\(G\\). this is far from obvious.\nin counterfactual, figure 11, prices change by 0.36% at most - median seems to be 0.01%. Compared to a maximum amenity increase of 45% (figure 9), that seems quite a small effect. Why is that? How much do we trust this result?\nHow did those changes compare to what happened in the data?\nFor me, the main thing missing from the model is a taxation module."
+  },
+  {
+    "objectID": "notes/notes.html#counterfactual---comments-2-fair-funding-review-2.0",
+    "href": "notes/notes.html#counterfactual---comments-2-fair-funding-review-2.0",
+    "title": "slides",
+    "section": "Counterfactual - Comments 2: Fair Funding Review 2.0",
+    "text": "Counterfactual - Comments 2: Fair Funding Review 2.0\nStarting 2026-27 local council funding will change (again) dramatically. (You don’t want to run a counterfactual for the past.)\n\nseparate spending needs formula for key services: adult social care, children’s services, home-to-school transport, temporary accommodation, highways maintenance and fire services\nAssessment of how much can be raised from Council Tax\nTo be updated in future\n3-year phase in.\n\nIFS has the authoritative writeup."
+  },
+  {
+    "objectID": "notes/notes.html#other-comments",
+    "href": "notes/notes.html#other-comments",
+    "title": "slides",
+    "section": "Other Comments",
+    "text": "Other Comments\n\nIFS produced a financing simulator (broken currently)\ntalk to david phillips at IFS and Giorgio Pietrabissa at LSE\n\n\nliterature discussion is weak. this is an obscure paper that I can find nowhere Zahra, S., Fahmi, M., & Satriatna, B. (2018). Impact of school zoning: A review of the economic literature. Working Papers in Economics and Development Studies. WP from Padjadjaran University, India.\nshould consider looking at a series of paper by Bayer and Timmins (EJ 2007, JUE 2005) and Bayer McMillan, Murphy and Timmins (ECTA 2016). Classic paper is jan bruckner on the value of amenities.\nthe premise “people care about local services like trash collection” needs to be supported much stronger. it seems you take for granted that the spending effects are substantial, but this is far from clear. Here is one view of what English councils spend money on:\n\nLocal authorities in England deliver social care for children and adults, ‘neighbourhood services’ such as libraries and waste collection, and some aspects of transport, housing and education.\n\nOne key suspect in neighborhood sorting - schooling - is not financed by local councils. Your view of councils as being free agents which set a tax rate and spend on services is far removed from reality: there is little margin in reality.\nIn general, the convolution of national and local (and private) spending is troublesome in your analysis. This part has to be really watertight.\nin 3.3.1 you say that amenity values spill over borrough boundaries when in the model you say all the time that you don’t have those because the effects decay so fast.\nThe assumption is that there are no policy or historical differences that would lead houses on one side of the border to be more expensive because they are larger, newer, or more luxurious.\nhttps://www.google.com/maps/d/u/0/edit?mid=1S4L-d3KFpUFNUjRo2hJcE5ecXbkDgh0&usp=sharing"
+  },
+  {
+    "objectID": "notes/notes.html#references",
+    "href": "notes/notes.html#references",
+    "title": "slides",
+    "section": "References",
+    "text": "References\n\n\n\n\nBayer, Patrick, Robert McMillan, Alvin Murphy, and Christopher Timmins. 2016. “A Dynamic Model of Demand for Houses and Neighborhoods.” Econometrica 84 (3): 893–942.\n\n\nBayer, Patrick, and Christopher Timmins. 2005. “On the Equilibrium Properties of Locational Sorting Models.” Journal of Urban Economics 57 (3): 462–77.\n\n\n———. 2007. “Estimating Equilibrium Models of Sorting Across Locations.” The Economic Journal 117 (518): 353–74.\n\n\nZahra, Sirin, Mohamad Fahmi, and Ben Satriatna. 2018. “Impact of School Zoning: A Review of the Economic Literature.” Working Papers in Economics and Development Studies (WoPEDS), no. 201801."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Overview",
+    "text": "Overview\n\nWhat is the impact of changes in local govt spending on the sorting behaviour in a city?\nUse a 2010 policy change to investigate this question.\nUse detailed data on prices, commuting, land rents etc to estimate key elasticities and parametrize a model a la Redding et al\nRun a counteractual that predicts changes in sorting-related outcomes."
+  },
+  {
+    "objectID": "index.html#literature-overview",
+    "href": "index.html#literature-overview",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Literature Overview",
+    "text": "Literature Overview\n\nNot doing justice to the vast literature on local public finance.\nthe premise “people care about local services like trash collection” needs to be supported much stronger. Reference to Zahra, Fahmi, and Satriatna (2018) is weak.\nShould have a close look at Bayer and Timmins (2005), Bayer and Timmins (2007), Bayer et al. (2016)\nit seems you take for granted that the spending effects are substantial, but this is far from clear."
+  },
+  {
+    "objectID": "index.html#local-authority-spending",
+    "href": "index.html#local-authority-spending",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Local Authority Spending",
+    "text": "Local Authority Spending\nInstitute for Government:\n\nLocal authorities in England deliver social care for children and adults, ‘neighbourhood services’ such as libraries and waste collection, and some aspects of transport, housing and education.\n\n\nSchooling is a major sorting driver. Who pays for that?\nSubstantial amount of funding comes via government grants.\nCouncil tax + business tax are not freely chosen.\nTalk to colleagues at LSE and IFS. David Phillips."
+  },
+  {
+    "objectID": "index.html#estimation-of-eta",
+    "href": "index.html#estimation-of-eta",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Estimation of \\(\\eta\\)",
+    "text": "Estimation of \\(\\eta\\)\nKey object of interest:\n\\[\n\\ln P_{ijr} = \\alpha + \\beta \\Delta \\ln G_r  + X_j + \\epsilon_i\n\\]\n\nshould be\n\\[\n\\Delta \\ln P_{ijr} = \\alpha + \\eta \\Delta \\ln G_r  + X_j + \\epsilon_i\n\\]\n\n\n\\[\\begin{align}\n\\ln P_{ijr,0} & = \\alpha + \\eta \\ln G_{r,0}  + X_j + \\epsilon_{i,0}\\\\\n\\ln P_{ijr,1} & = \\alpha + \\eta \\ln G_{r,1}  + X_j + \\epsilon_{i,1}\\\\\n\\Delta \\ln P_{ijr} & = \\phantom{\\alpha + }\\gamma \\Delta \\ln G_{r}\\phantom{X_j +a} + u_{i}\\\\\n\\end{align}\\]\n\n\n\n\\(X_j\\) will capture fixed effects of the border and area.\n\nNo."
+  },
+  {
+    "objectID": "index.html#estimation-of-eta-1",
+    "href": "index.html#estimation-of-eta-1",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Estimation of \\(\\eta\\)",
+    "text": "Estimation of \\(\\eta\\)\n\n\nThe assumption is that there are no policy or historical differences that would lead houses on one side of the border to be more expensive because they are larger, newer, or more luxurious."
+  },
+  {
+    "objectID": "index.html#estimation-of-eta-2",
+    "href": "index.html#estimation-of-eta-2",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Estimation of \\(\\eta\\)",
+    "text": "Estimation of \\(\\eta\\)"
+  },
+  {
+    "objectID": "index.html#estimation-of-eta-borders",
+    "href": "index.html#estimation-of-eta-borders",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Estimation of \\(\\eta\\): Borders",
+    "text": "Estimation of \\(\\eta\\): Borders"
+  },
+  {
+    "objectID": "index.html#counterfactual---comments-1",
+    "href": "index.html#counterfactual---comments-1",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Counterfactual - Comments 1",
+    "text": "Counterfactual - Comments 1\n\nBaseline, all councils have the same spending level G = 1. So, all differences are in b_r. Then increase \\(G\\).\nDocument clearly how you computed the change in \\(G\\). this is far from obvious.\nin counterfactual, figure 11, prices change by 0.36% at most - median seems to be 0.01%. Compared to a maximum amenity increase of 45% (figure 9), that seems quite a small effect. Why is that? How much do we trust this result?\nHow did those changes compare to what happened in the data?\nFor me, the main thing missing from the model is a taxation module."
+  },
+  {
+    "objectID": "index.html#counterfactual---comments-2-fair-funding-review-2.0",
+    "href": "index.html#counterfactual---comments-2-fair-funding-review-2.0",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Counterfactual - Comments 2: Fair Funding Review 2.0",
+    "text": "Counterfactual - Comments 2: Fair Funding Review 2.0\nStarting 2026-27 local council funding will change (again) dramatically. (You don’t want to run a counterfactual for the past.)\n\nseparate spending needs formula for key services: adult social care, children’s services, home-to-school transport, temporary accommodation, highways maintenance and fire services\nAssessment of how much can be raised from Council Tax\nTo be updated in future\n3-year phase in.\n\nIFS has the authoritative writeup."
+  },
+  {
+    "objectID": "index.html#counterfactual---comments-3",
+    "href": "index.html#counterfactual---comments-3",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "Counterfactual - Comments 3",
+    "text": "Counterfactual - Comments 3\n\nintitially talk about inequality. but all model agents get the same level of utility. wouldn’t it be interesting to relax this?"
+  },
+  {
+    "objectID": "index.html#end",
+    "href": "index.html#end",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "End",
+    "text": "End\nNice paper, promising setup, hope I gave some ways to further improve!"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
+    "section": "References",
+    "text": "References\n\n\n\n\nBayer, Patrick, Robert McMillan, Alvin Murphy, and Christopher Timmins. 2016. “A Dynamic Model of Demand for Houses and Neighborhoods.” Econometrica 84 (3): 893–942.\n\n\nBayer, Patrick, and Christopher Timmins. 2005. “On the Equilibrium Properties of Locational Sorting Models.” Journal of Urban Economics 57 (3): 462–77.\n\n\n———. 2007. “Estimating Equilibrium Models of Sorting Across Locations.” The Economic Journal 117 (518): 353–74.\n\n\nZahra, Sirin, Mohamad Fahmi, and Ben Satriatna. 2018. “Impact of School Zoning: A Review of the Economic Literature.” Working Papers in Economics and Development Studies (WoPEDS), no. 201801."
+  }
+]
