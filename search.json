@@ -88,14 +88,14 @@
     "href": "index.html#local-authority-spending",
     "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
     "section": "Local Authority Spending",
-    "text": "Local Authority Spending\nInstitute for Government:\n\nLocal authorities in England deliver social care for children and adults, ‘neighbourhood services’ such as libraries and waste collection, and some aspects of transport, housing and education.\n\n\nSchooling is a major sorting driver. Who pays for that?\nSubstantial amount of funding comes via government grants.\nCouncil tax + business tax are not freely chosen.\nTalk to colleagues at LSE and IFS. David Phillips."
+    "text": "Local Authority Spending\nInstitute for Government:\n\nLocal authorities in England deliver social care for children and adults, ‘neighbourhood services’ such as libraries and waste collection, and some aspects of transport, housing and education.\n\n\nSchooling is a major sorting driver. Who pays for that?\nSubstantial amount of funding comes via government grants.\nCouncil tax + business tax are not freely chosen.\nTalk to colleagues at LSE and IFS. David Phillips. Giorgio Pietrabissa, Daniel Sturm…"
   },
   {
     "objectID": "index.html#estimation-of-eta",
     "href": "index.html#estimation-of-eta",
     "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
     "section": "Estimation of \\(\\eta\\)",
-    "text": "Estimation of \\(\\eta\\)\nKey object of interest:\n\\[\n\\ln P_{ijr} = \\alpha + \\beta \\Delta \\ln G_r  + X_j + \\epsilon_i\n\\]\n\nshould be\n\\[\n\\Delta \\ln P_{ijr} = \\alpha + \\eta \\Delta \\ln G_r  + X_j + \\epsilon_i\n\\]\n\n\n\\[\\begin{align}\n\\ln P_{ijr,0} & = \\alpha + \\eta \\ln G_{r,0}  + X_j + \\epsilon_{i,0}\\\\\n\\ln P_{ijr,1} & = \\alpha + \\eta \\ln G_{r,1}  + X_j + \\epsilon_{i,1}\\\\\n\\Delta \\ln P_{ijr} & = \\phantom{\\alpha + }\\gamma \\Delta \\ln G_{r}\\phantom{X_j +a} + u_{i}\\\\\n\\end{align}\\]\n\n\n\n\\(X_j\\) will capture fixed effects of the border and area.\n\nNo."
+    "text": "Estimation of \\(\\eta\\)\nKey object of interest:\n\\[\n\\ln P_{ijr} = \\alpha + \\beta \\Delta \\ln G_r  + X_j + \\epsilon_i\n\\]\n\nshould be \\[\n\\Delta \\ln P_{ijr} = \\alpha + \\eta \\Delta \\ln G_r  + X_j + \\epsilon_i\n\\]\n\n\n\\[\\begin{align}\n\\ln P_{ijr,0} & = \\alpha + \\eta \\ln G_{r,0}  + X_j + \\epsilon_{i,0}\\\\\n\\ln P_{ijr,1} & = \\alpha + \\eta \\ln G_{r,1}  + X_j + \\epsilon_{i,1}\\\\\n\\Delta \\ln P_{ijr} & = \\phantom{\\alpha + }\\gamma \\Delta \\ln G_{r}\\phantom{X_j +a} + u_{i}\\\\\n\\end{align}\\]\n\n\n\n\\(X_j\\) will capture fixed effects of the border and area. 👉 No."
   },
   {
     "objectID": "index.html#estimation-of-eta-1",
@@ -116,7 +116,7 @@
     "href": "index.html#estimation-of-eta-borders",
     "title": "Discussion of Local public goods as amenities: Evidence from London by Emiliano Rinaldi",
     "section": "Estimation of \\(\\eta\\): Borders",
-    "text": "Estimation of \\(\\eta\\): Borders"
+    "text": "Estimation of \\(\\eta\\): Borders\n\n\n\n\n\n\n\n\n\nborder 1\n\n\n\n\n\n\n\nborder 2\n\n\n\n\n\n\n\nborder 3"
   },
   {
     "objectID": "index.html#counterfactual---comments-1",
